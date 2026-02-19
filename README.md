@@ -60,7 +60,7 @@ I build reliable and scalable software solutions with a strong focus on clean ar
 
 <img height="170" src="https://streak-stats.demolab.com?user=it21247804&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=IT21247804&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=it21247804)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
