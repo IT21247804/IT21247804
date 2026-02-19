@@ -4,6 +4,8 @@
 
 ### Software Engineer | Full-Stack Developer | AI/ML Enthusiast
 
+<img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
 [![Profile Views](https://komarev.com/ghpvc/?username=it21247804&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/it21247804)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://pasan-baddewithana.netlify.app/)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-2E7D32?style=flat&logo=readme&logoColor=white)](https://pasan-baddewithana.netlify.app/PasanBaddewithana_resume.pdf)
