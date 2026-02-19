@@ -23,6 +23,8 @@ I build reliable and scalable software solutions with a strong focus on clean ar
 - Learning: DevOps and cloud-native engineering practices
 - Open to: Collaboration on full-stack and AI-assisted application projects
 
+<br clear="right" />
+
 ---
 
 ## Skills
@@ -70,8 +72,8 @@ I build reliable and scalable software solutions with a strong focus on clean ar
 ## Connect
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pasan%20baddewithana-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pasan%20baddewithana)
-[![Facebook](https://img.shields.io/badge/Facebook-pasan%20baddewithana-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/pasan%20baddewithana)
-[![Topcoder](https://img.shields.io/badge/Topcoder-12000-29A8DF?style=flat&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/12000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pasan%20baddewithana-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasan-baddewithana-6b1005218/)
+[![Facebook](https://img.shields.io/badge/Facebook-pasan%20baddewithana-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/pasan.baddewithana.1?mibextid=ZbWKwL)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-pasan%20baddewithana-F48024?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21779160/pasan-baddewithana)
 
 </div>
