@@ -55,7 +55,7 @@ I build reliable and scalable software solutions with a strong focus on clean ar
 ## GitHub Analytics
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IT21247804&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub Stats" />
+[![Pasan's GitHub stats](https://github-stats-extended.vercel.app/api?username=it21247804)](https://github.com/stats-organization/github-stats-extended)
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21247804&layout=compact&hide_border=true" alt="Top Languages" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=it21247804&hide_border=true" alt="GitHub Streak" />
