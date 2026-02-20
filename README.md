@@ -45,8 +45,17 @@ I build reliable and scalable software solutions with a strong focus on clean ar
 ### DevOps and Cloud
 ![DevOps and Cloud](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,azure,gcp,nginx,linux)
 
+### Operating Systems
+![Operating Systems](https://skillicons.dev/icons?i=linux,windows,apple)
+
+### Mobile
+![Mobile](https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,react)
+
+### Project Management and Collaboration
+![Project Management and Collaboration](https://skillicons.dev/icons?i=github,gitlab,jira,notion)
+
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,postman,firebase,figma)
+![Tools](https://skillicons.dev/icons?i=git,postman,firebase,figma,vscode,idea)
 
 </div>
 
