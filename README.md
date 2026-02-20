@@ -31,16 +31,16 @@ I build reliable and scalable software solutions with a strong focus on clean ar
 <div align="center">
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,python,java,c,cpp)
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java,dart,kotlin,c,cpp)
 
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,bootstrap,html,css)
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,laravel,spring)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,fastapi,laravel,spring)
 
 ### Databases
-![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite)
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,oracle,firebase)
 
 ### DevOps and Cloud
 ![DevOps and Cloud](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,azure,gcp,nginx,linux)
