@@ -34,7 +34,7 @@ I build reliable and scalable software solutions with a strong focus on clean ar
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,java,dart,kotlin,c,cpp)
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,bootstrap,html,css)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,materialui,bootstrap,html,css)
 
 ### Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,fastapi,laravel,spring)
