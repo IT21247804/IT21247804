@@ -40,7 +40,7 @@ I build reliable and scalable software solutions with a strong focus on clean ar
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,fastapi,laravel,spring)
 
 ### Databases
-![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,oracle,firebase)
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase)
 
 ### DevOps and Cloud
 ![DevOps and Cloud](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,azure,gcp,nginx,linux)
@@ -52,7 +52,7 @@ I build reliable and scalable software solutions with a strong focus on clean ar
 ![Mobile](https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,react)
 
 ### Project Management and Collaboration
-![Project Management and Collaboration](https://skillicons.dev/icons?i=github,gitlab,jira,notion)
+![Project Management and Collaboration](https://skillicons.dev/icons?i=github,gitlab,notion)
 
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,postman,firebase,figma,vscode,idea)
