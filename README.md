@@ -31,7 +31,7 @@ I build reliable and scalable software solutions with a strong focus on clean ar
 <div align="center">
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,python,java,dart,kotlin,c,cpp)
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java,dart,kotlin,c,cpp,py)
 
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,materialui,bootstrap,html,css)
